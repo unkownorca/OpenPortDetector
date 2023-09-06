@@ -23,7 +23,7 @@ The PortScanner project is a Python-based network tool designed to help users sc
 
 3. Run the scanner with the desired target host and port(s):
 
-> python portscanner.py target_host target_port(s)
+> python portscannercaz.py target_host target_port(s)
 
 ## Usage:
 
