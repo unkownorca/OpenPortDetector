@@ -29,7 +29,7 @@ The PortScanner project is a Python-based network tool designed to help users sc
 
 To scan a single port on a target host:
 
-> python portscanner.py example.com 80
+> python portscannercaz.py example.com 80
 
 To scan a range of ports:
 
@@ -37,7 +37,7 @@ To scan a range of ports:
 
 To scan multiple specific ports:
 
-> python portscanner.py example.com 22 80 443
+> python portscannercaz.py example.com 22 80 443
 
 ## Disclaimer:
 
