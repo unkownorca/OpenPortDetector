@@ -33,7 +33,7 @@ To scan a single port on a target host:
 
 To scan a range of ports:
 
-> python portscanner.py example.com 20-80
+> python portscannercaz.py example.com 20-80
 
 To scan multiple specific ports:
 
